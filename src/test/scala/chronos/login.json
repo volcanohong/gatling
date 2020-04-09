@@ -1,0 +1,18 @@
+{
+  "applicationId": "00000000-0000-0000-0000-000000000000",
+  "transactionId": null,
+  "eventId": 1,
+  "eventName": "Login",
+  "category": "USER_EVENT",
+  "partyId": "91429948",
+  "date": 1569796439557,
+  "eventData": {
+    "eventName": "Login",
+    "partyId": "91429948",
+    "sessionKey": "ABC1234567890",
+    "ip": "127.0.0.1",
+    "accountBalancePlayableBonus": 2440.00,
+    "accountBalanceReal": 16727.30,
+    "accountBalanceReleasedBonus": 696.41
+  }
+}
